@@ -1,0 +1,10 @@
+{
+  "description": "A user account-based ERP dashboard for managing private system operations, giving teams a clear, simple view of workflows and key information.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
